@@ -4,3 +4,5 @@
 <p align="center">|⠀'⠀scene.⠀17⠀⠀:⠀⠀constellation⠀waiting⠀to⠀be⠀named⠀.⠀'</p>
 
 <p align="center">𓈒⠀︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵⠀𓈒</p>
+
+<p align="center">[carrd](https://drawl.carrd.co/#)⠀⠀⠀⠀[ata](https://drawl.atabook.org/)(</p>
