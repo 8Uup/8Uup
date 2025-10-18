@@ -5,4 +5,7 @@
 
 <p align="center">𓈒⠀︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵⠀𓈒
 
-<p align="center"> [carrd](https://drawl.carrd.co/) [ata](https://genesistic.atabook.org/) </p>
+<div align="center">
+  <a href="https://drawl.carrd.co/#">carrd</a>⠀⠀
+  <a href="https://genesistic.atabook.org/">ata</a>
+</div>
