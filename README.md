@@ -6,6 +6,6 @@
 <p align="center">𓈒⠀︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵ ⌣ ︵⠀𓈒
 
 <div align="center">
-  <a href="https://drawl.carrd.co/#">carrd</a>⠀⠀
+  <a href="https://drawl.carrd.co/#">carrd</a>⠀⠀⠀
   <a href="https://genesistic.atabook.org/">ata</a>
 </div>
